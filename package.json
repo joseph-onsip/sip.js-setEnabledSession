@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/joseph-onsip/sip.js-setEnabledSession",
   "dependencies": {
-    "concat-map": "0.0.1"
+    "concat-map": "0.0.1",
+    "object-is": "^1.0.1"
   }
 }
