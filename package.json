@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joseph-onsip/sip.js-setEnabledSession/issues"
   },
-  "homepage": "https://github.com/joseph-onsip/sip.js-setEnabledSession"
+  "homepage": "https://github.com/joseph-onsip/sip.js-setEnabledSession",
+  "dependencies": {
+    "concat-map": "0.0.1"
+  }
 }
